@@ -61,7 +61,7 @@ communist-australia-hoi4/
      `mklink /D "Documents\Paradox Interactive\Hearts of Iron IV\mod\communist-australia" "C:\path\to\your\cloned\communist-australia-hoi4\mod"`
 3. **Copy the .mod file to the mod directory**
      `copy "communist-australia-hoi4\NanahaRedstar.mod" "Documents\Paradox Interactive\Hearts of Iron IV\mod\"`
-(test)
+
 **Important:** After installation, the .mod file and the mod folder should be next to each other inside your HOI4 mod directory.
 
 
@@ -86,6 +86,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
 
