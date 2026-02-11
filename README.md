@@ -54,7 +54,7 @@ communist-australia-hoi4/
 4. Launch Hearts of Iron IV, go to the `Playsets` tab in the launcher,
     **enable** "Nanaha Redstar"
    
-### Method 2: GitHub Clone (For Developers)
+### Method 2: GitHub Clone (*For Developers*)
 1. **Clone the repository**
      `git clone https://github.com/tamakitankie/communist-australia-hoi4.git`
 2. **Create a symbolic link to the mod folder (Windows - Run as Administrator in Command Prompt)**
@@ -87,6 +87,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
 
