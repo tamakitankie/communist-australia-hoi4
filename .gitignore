@@ -1,0 +1,26 @@
+# HOI4 specific
+*.dds
+*.tga
+*.dll
+*.exe
+*.zip
+*.rar
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+
+# Paradox folders
+*.mod
+build/
+output/
