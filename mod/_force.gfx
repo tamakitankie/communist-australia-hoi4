@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_AST_nanaha_redstar"
+		texturefile = "gfx/leaders/AST/nanaha_redstar_portrait.dds"
+		loadInFactory = no
+	}
+}
