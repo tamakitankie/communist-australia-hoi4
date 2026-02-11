@@ -19,7 +19,7 @@ A Hearts of Iron IV mod that transforms Australia into a communist republic led 
 *   Custom flags and graphics
 
 ## 📁 Project Structure
-
+```
 communist-australia-hoi4/
 ├── .gitignore
 ├── LICENSE
@@ -41,9 +41,7 @@ communist-australia-hoi4/
     │       └── AST - Australia.txt
     └── localisation/
         └── l_english.yml
-
-
-
+```
 ## 🔧 Installation
 
 ### Method 1: Manual Installation
@@ -84,5 +82,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
