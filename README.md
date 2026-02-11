@@ -66,14 +66,15 @@ communist-australia-hoi4/
 
 
 ## 🤝 Contributing
-Contributions are welcome! If you'd like to help develop this mod, please:
-1.  Fork the repository.
-2.  Create a feature branch (`git checkout -b feature/amazing-feature`).
-3.  Commit your changes (`git commit -m 'Add amazing feature'`).
-4.  Push to the branch (`git push origin feature/amazing-feature`).
-5.  Open a Pull Request.
+**Contributions are welcome!** 
+If you'd like to help develop this mod, please:
+1.  **Fork** the repository.
+2.  **Create** a feature branch (`git checkout -b feature/amazing-feature`).
+3.  **Commit** your changes (`git commit -m 'Add amazing feature'`).
+4.  **Push** to the branch (`git push origin feature/amazing-feature`).
+5.  **Open** a Pull Request.
 
-### Areas Where Help is Needed
+## 🛠️ Areas Where Help is Needed
 *   Focus tree design and implementation
 *   Event writing and historical research
 *   Graphics (flags, portraits, interface)
@@ -86,6 +87,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
 
