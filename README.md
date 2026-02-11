@@ -19,6 +19,7 @@ A Hearts of Iron IV mod that transforms Australia into a communist republic led 
 *   Custom flags and graphics
 
 ## 📁 Project Structure
+'''
 communist-australia-hoi4/
 ├── .gitignore
 ├── LICENSE
@@ -26,22 +27,22 @@ communist-australia-hoi4/
 ├── NanahaRedstar.mod
 ├── nanaha_redstar_portrait.dds
 └── mod/
-├── _force.gfx
-├── descriptor.mod
-├── common/
-│ └── characters/
-│ └── AST.txt
-├── gfx/
-│ └── leaders/
-│ └── AST/
-│ └── nanaha_redstar.dds
-├── history/
-│ └── countries/
-│ └── AST - Australia.txt
-└── localisation/
-└── l_english.yml
+    ├── _force.gfx
+    ├── descriptor.mod
+    ├── common/
+    │   └── characters/
+    │       └── AST.txt
+    ├── gfx/
+    │   └── leaders/
+    │       └── AST/
+    │           └── nanaha_redstar.dds
+    ├── history/
+    │   └── countries/
+    │       └── AST - Australia.txt
+    └── localisation/
+        └── l_english.yml
+'''
 
-text
 
 ## 🔧 Installation
 
@@ -83,3 +84,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
