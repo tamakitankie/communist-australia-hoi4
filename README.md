@@ -56,7 +56,7 @@ communist-australia-hoi4/
    
 ### Method 2: GitHub Clone (For Developers)
 1. **Clone the repository**
-     *git clone https://github.com/tamakitankie/communist-australia-hoi4.git*
+     `git clone https://github.com/tamakitankie/communist-australia-hoi4.git`
 2. **Create a symbolic link to the mod folder (Windows - Run as Administrator in Command Prompt)**
      `mklink /D "Documents\Paradox Interactive\Hearts of Iron IV\mod\communist-australia" "C:\path\to\your\cloned\communist-australia-hoi4\mod"`
 3. **Copy the .mod file to the mod directory**
@@ -87,6 +87,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
 
