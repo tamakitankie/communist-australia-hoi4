@@ -43,26 +43,31 @@ communist-australia-hoi4/
         └── l_english.yml
 ```
 ## 🔧 Installation
-
 ### Method 1: Manual Installation
 1.  **Download** the entire repository (`Code` -> `Download ZIP`).
 2.  **Extract** the ZIP file.
-3.  **Copy** the `mod/` folder to your HOI4 mod directory:
-    *   **Windows**: `Documents/Paradox Interactive/Hearts of Iron IV/mod/`
-4.  **Copy** the `NanahaRedstar.mod` file to the **same mod directory**.
-5.  **Copy** the `nanaha_redstar_portrait.dds` file to the same mod directory.
-6.  Launch Hearts of Iron IV, go to the `Playsets` tab in the launcher, and enable **"Nanaha Redstar"**.
-
+3.  **Move** these two items into your HOI4 `mod/` folder:
+    **The** `NanahaRedstar.mod` file
+    **The** entire `mod` folder
+    **HOI4 Mod Folder Location:**
+    **Windows:** Documents/Paradox Interactive/Hearts of Iron IV/mod/
+4. Launch Hearts of Iron IV, go to the `Playsets` tab in the launcher,
+    **enable** "Nanaha Redstar"
+   
 ### Method 2: GitHub Clone (For Developers)
+*For Developers*
+# Clone the repository
 git clone https://github.com/tamakitankie/communist-australia-hoi4.git
-cd communist-australia-hoi4
+# Create a symbolic link to the mod folder (Windows - Run as Administrator in Command Prompt)
+mklink /D "Documents\Paradox Interactive\Hearts of Iron IV\mod\communist-australia" "C:\path\to\your\cloned\communist-australia-hoi4\mod"
+# Copy the .mod file to the mod directory
+copy "communist-australia-hoi4\NanahaRedstar.mod" "Documents\Paradox Interactive\Hearts of Iron IV\mod\"
 
-Manually place the files as described in Method 1 above.
-text
+**Important:** After installation, the .mod file and the mod folder should be next to each other inside your HOI4 mod directory.
+
 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to help develop this mod, please:
-
 1.  Fork the repository.
 2.  Create a feature branch (`git checkout -b feature/amazing-feature`).
 3.  Commit your changes (`git commit -m 'Add amazing feature'`).
@@ -82,6 +87,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
 
