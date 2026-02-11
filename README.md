@@ -7,7 +7,7 @@ A Hearts of Iron IV mod that transforms Australia into a communist republic led 
 
 ## **☭ The Workers' Call to Arms ☭**
 Had enough of being Britain's **remote manpower reserve?** The days of **imperial exploitation** are **over**. Answer the call of **Comrade Nanaha Redstar**, unite the **proletariat**, and build a true **socialist paradise** under the **Southern Cross**. 
-*The revolution starts here.*
+**The revolution starts here!**
 
 ## ✅ Current Features
 *   **Communist Australia** starting in 1936
@@ -91,6 +91,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
 
