@@ -24,7 +24,8 @@ Had enough of being Britain's **remote manpower reserve?** The days of **imperia
 
 ---
 
-*If you believe your work is used here without proper credit, please open an issue.*
+*If you believe your work is used here without proper credit, please open an issue, and it will be removed immediately*
+
 
 ## ✅ Current Features
 *   **Communist Australia** starting in 1936
@@ -108,6 +109,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
 
