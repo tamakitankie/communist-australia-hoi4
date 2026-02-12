@@ -14,7 +14,7 @@ Had enough of being Britain's **remote manpower reserve?** The days of **imperia
 ## 🖌️ Artwork
 | Contribution | Artist | Status |
 |-------------|--------|--------|
-| Nanaha Redstar Leader Portrait | [@nanaha_redstar](https://x.com/nanaha_redstar) | Awaiting response |
+| Nanaha Redstar Leader Portrait | [@nanaha_redstar](https://x.com/nanaha_redstar) | ... |
 
 ## 🙏 Special Thanks
 - [@nanaha_redstar](https://x.com/nanaha_redstar) — Twitter
@@ -109,6 +109,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
 
