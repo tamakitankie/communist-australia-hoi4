@@ -17,10 +17,10 @@ Had enough of being Britain's **remote manpower reserve?** The days of **imperia
 | Nanaha Redstar Leader Portrait | [@nanaha_redstar](https://x.com/nanaha_redstar) | Awaiting response |
 
 ## 🙏 Special Thanks
-- [@nanaha_redstar's Twitter](https://x.com/nanaha_redstar) — Portrait Artist
-- [@nanaha_redstar's Fanbox](https://nanaha-redstar.fanbox.cc/posts) — Portrait Artist
-- [@nanaha_redstar's YouTube](https://www.youtube.com/@%E8%B5%A4%E6%98%9F%E3%83%8A%E3%83%8A%E3%83%8F/videos) — Portrait Artist
-- Paradox Interactive
+- [@nanaha_redstar's Twitter](https://x.com/nanaha_redstar) — Twitter
+- [@nanaha_redstar's Fanbox](https://nanaha-redstar.fanbox.cc/posts) — Fanbox
+- [@nanaha_redstar's YouTube](https://www.youtube.com/@%E8%B5%A4%E6%98%9F%E3%83%8A%E3%83%8A%E3%83%8F/videos) — Youtube
+- [Paradox Interactive](https://www.paradoxinteractive.com/) — Home
 
 ---
 
@@ -108,6 +108,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 *"Workers of Australia, unite!" – Nanaha Redstar*
+
 
 
 
